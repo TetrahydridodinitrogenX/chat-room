@@ -1,18 +1,10 @@
 {
   "description": "data used for the Chat Room application",
-  "numVisitors": 3,
+  "numVisitors": 17,
   "data": [
     {
-      "name": "David",
-      "message": "Anyone here?"
-    },
-    {
-      "name": "Peter",
-      "message": "Hey David, How's it going?"
-    },
-    {
-      "name": "Guest3",
-      "message": "Hello?"
+      "name": "Robert",
+      "message": "How are you?"
     }
   ]
 }

@@ -29,7 +29,7 @@ curl -d "name='Bob'&message='Good Morning!'" https://cuinjune-chat-room.glitch.m
 
 * Terminal command:
 ```
-curl -X DELETE https://cuinjune-chat-room.glitch.me/api/v1/chat/data
+curl -X DELETE https://royalclient.herokuapp.com/api/v1/chat/data
 ```
 
 * Returned value example: 
